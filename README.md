@@ -1,4 +1,4 @@
-# i4mC-GRU: Identifying DNA N4-Methylcytosine Sites in Mice using Bidirectional Gated Recurrent Unit and Sequence-embedded Features
+# i4mC-GRU: Identifying DNA N4-Methylcytosine Sites in Mice using Bidirectional GRU and Sequence-embedded Features
 
 
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, [S. Rahardja](http://www.susantorahardja.com/)*, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
