@@ -3,7 +3,7 @@
 
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, [S. Rahardja](http://www.susantorahardja.com/)*, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
-![alt text](https://github.com/mldlproject/2022-i4mC-GRU/blob/main/i4mC_GRU_abs.svg)
+![alt text](https://github.com/mldlproject/2022-i4mC-GRU/blob/main/i4mC_GRU_abs0.svg)
 
 ## Motivation
 N4-methylcytosine (4mC) is one of the most common DNA methylation modifications found in both prokaryotic and eukaryotic genomes
