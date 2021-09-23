@@ -24,7 +24,7 @@ method outperforms other state-of-the-art methods.
 Source code and data are available upon request. 
 
 ## Web-based Application
-[Click here](http://13.238.182.15:888/) (Being implemented)
+[Click here](http://3.26.67.253:8888/)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
