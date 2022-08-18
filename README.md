@@ -26,7 +26,7 @@ Source code and data are available upon request.
 
 ## Web-based Application
 - Source 1: [Click here](http://14.231.244.182:5002/)
-- Source 2: [Click here](http://103.130.219.193:8003/)
+- Source 2: [Click here](http://192.168.1.7:5002/)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
