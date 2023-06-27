@@ -6,20 +6,15 @@
 ![alt text](https://github.com/mldlproject/2022-i4mC-GRU/blob/main/i4mC_GRU_abs0.svg)
 
 ## Motivation
-N4-methylcytosine (4mC) is one of the most common DNA methylation modifications found in both prokaryotic and eukaryotic
-genomes besides N6-methyladenine and N5-methylcytosine. This methylation type has essential biological roles comprising of
-replication and repair, cell cycle, controlling gene expression levels, epigenetic inheritance, genome stabilization, recombination,
-and evolution. Determining the location of 4mC is therefore critical to investigating physiological and pathological mechanisms.
-In this study, we propose an effective computational method called i4mC-GRU using a gated recurrent unit and duplet sequenceembedded features to 
-predict 4mC sites in DNA sequences. The sequence samples of Mus musculus (mice) were collected from the
-MethSMRT database and then were refined to build a benchmark dataset.
+N4-methylcytosine (4mC) is one of the most common DNA methylation modifications found in both prokaryotic and eukaryotic genomes. Since the 4mC has various essential biological roles, 
+determining its location helps reveal unexplored physiological and pathological pathways. In this study, we propose an effective computational method called i4mC-GRU using a gated 
+recurrent unit and duplet sequence-embedded features to predict potential 4mC sites in mouse (Mus musculus) genomes. To fairly assess the performance of the model, we compared our method 
+with several state-of-the-art methods using two different benchmark datasets.
 
 ## Results
-To fairly assess the model performance, we compared
-our method with several state-of-the-art methods. Our results showed that i4mC-GRU had achieved the area under the receiver
-operating characteristic curve of 0.97 and the area under the precision-recall curve of 0.98. Comparative analysis also indicated
-that our method had performed better than other methods. As an efficient, robust, and stable method, i4mC-GRU contributes to the
-extension of computational tools predicting N4-methylcytosine sites in mouse genomes. 
+Our results showed that i4mC-GRU achieved area under the receiver operating characteristic curve values of 0.97 and 0.89 and area under the precision-recall curve values of 0.98 
+and 0.90 on the first and second benchmark datasets, respectively. Briefly, our method outperformed existing methods in predicting 4mC sites in mouse genomes. Also, we deployed i4mC-GRU 
+as an online web server, supporting users in genomics studies.
 
 ## Availability and implementation
 Source code and data are available upon request. 
